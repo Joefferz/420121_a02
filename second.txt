@@ -2,3 +2,5 @@ more text on the top
 
 second file
 wew
+
+bottom text
